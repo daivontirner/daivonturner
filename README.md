@@ -1,5 +1,5 @@
 ### Hi there my name is Daivon
-<h1>Hi, I'm Josh, an <a https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin>IT Professional</a>☺</h1>
+<h1>Hi, I'm Daivon, an <a https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
